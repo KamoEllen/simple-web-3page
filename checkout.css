@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-size: 24px;
+  color: #00B4E6;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px 0;
+  width: 100%;
+}
+
+table th {
+  font-size: 18px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+}
+
+table td {
+  font-size: 16px;
+  padding: 10px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+form label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form textarea {
+  height: 100px;
+}
+
+form button[type="submit"] {
+  font-size: 16px;
+  padding: 10px 20px;
+  border: 1px solid #00B4E6;
+  border-radius: 4px;
+  background-color: #00B4E6;
+  color: #fff;
+  cursor: pointer;
+}
