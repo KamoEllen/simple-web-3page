@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-size: 24px;
+  color: #00B4E6;
+}
+
+.product-image img {
+  max-width: 100%;
+}
+
+.product-price {
+  font-size: 18px;
+  color: #00B4E6;
+}
+
+.product-description {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.add-to-cart-button {
+  font-size: 16px;
+  padding: 10px 20px;
+  border: 1px solid #00B4E6;
+  border-radius: 4px;
+  background-color: #00B4E6;
+  color: #fff;
+  cursor: pointer;
+}
